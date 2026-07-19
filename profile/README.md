@@ -12,7 +12,10 @@ self-healing systems and structured multi-agent networks (BA, PM, Dev, and Test)
 * **Context & Memory Layering:** Systems optimized for feeding dense technical documentation, codebases, and database schemas to LLMs efficiently.
 * **Intelligent Infrastructure:** Blueprints and tools designed for high-performance, cost-optimized deployment of self-hosted open-source models.
 
-### 🌐 Join the Community
+### 🌐 Join the Community & Connect
 We are fully open-source and community-driven. Whether you are building custom AI cops, 
 optimizing backend data layers for LLMs, or designing multi-agent orchestrations, 
 we welcome your contributions, issues, and ideas.
+
+* **Official Website:** [giaosucan.com](https://www.giaosucan.com/)
+* **Connect on LinkedIn:** [giaosucan](https://www.linkedin.com/in/giaosucan/)
